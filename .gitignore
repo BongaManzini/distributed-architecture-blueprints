@@ -1,0 +1,5 @@
+# Ignore local roadmaps and study notes (kept local on disk, not on GitHub)
+Suggested-Projects-and-Roadmaps/
+.DS_Store
+__pycache__/
+*.pyc
