@@ -1,4 +1,4 @@
-# Distributed Systems Architecture Blueprints 🏗️
+# Distributed Systems Architecture Blueprints ️
 
 Hi! These are two working Python reference architectures I built to understand how high-traffic web applications prevent data loss and survive sudden traffic spikes.
 
@@ -9,8 +9,8 @@ Hi! These are two working Python reference architectures I built to understand h
 ```
 Architecture-Blueprints/
 ├── Distributed-Event-Streaming-Architecture/
-│   ├── outbox_pattern_simulator.py      # Transactional Outbox Pattern & event deduplication
-│   └── README.md
+│  ├── outbox_pattern_simulator.py   # Transactional Outbox Pattern & event deduplication
+│  └── README.md
 │
 └── Zero-Trust-API-Gateway/
     ├── token_bucket_rate_limiter.py     # Token Bucket rate limiter in Python
@@ -44,7 +44,7 @@ python3 Zero-Trust-API-Gateway/token_bucket_rate_limiter.py
 
 ---
 
-## 🤝 Contributing & Pull Requests
+## Contributing & Pull Requests
 
 Feedback, tests, and PRs are always welcome!
 1. Fork this repository
